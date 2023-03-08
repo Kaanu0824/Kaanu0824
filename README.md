@@ -33,8 +33,7 @@
  <p align="center">
 <img  width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanu0824&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=react" />
          
- <img width="47%" height="200px" src="https://activity-graph.herokuapp.com/graph?username=Kaanu0824&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
-</p>
+ 
  
  <hr>
  
